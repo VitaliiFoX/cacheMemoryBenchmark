@@ -53,17 +53,17 @@ L3        Read 10693.51 MB/s   Write 85670.89 MB/s   Copy 35567.91 MB/s   Latenc
 ---
 
 ## 🧪 Use Cases
-Benchmarking after system updates
-Comparing different Mac models
-Evaluating CPU throttling or thermal performance
-Testing effects of memory pressure
+- Benchmarking after system updates
+- Comparing different Mac models
+- Evaluating CPU throttling or thermal performance
+- Testing effects of memory pressure
 
 ---
 
 ## 💡 Notes
-Results may vary slightly run to run due to background processes
-Best performance readings are with low system load
-Try closing heavy apps (e.g. Chrome, Xcode) before testing
+- Results may vary slightly run to run due to background processes
+- Best performance readings are with low system load
+- Try closing heavy apps (e.g. Chrome, Xcode) before testing
 
 ---
 
